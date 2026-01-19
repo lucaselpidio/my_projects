@@ -7,10 +7,11 @@ Este projeto tem como objetivo analisar dados do e-commerce brasileiro Olist, bu
 O projeto foi desenvolvido com foco em portfólio profissional, simulando um cenário real de atuação de um Analista de Dados Júnior.
 
 🎯 Objetivos do Projeto
-Avaliar o comportamento dos valores dos pedidos
-Comparar volume de vendas e faturamento por categoria
-Analisar a evolução temporal dos pedidos
-Investigar o impacto do prazo de entrega na avaliação dos clientes
+
+- Avaliar o comportamento dos valores dos pedidos
+- Comparar volume de vendas e faturamento por categoria
+- Analisar a evolução temporal dos pedidos
+- Investigar o impacto do prazo de entrega na avaliação dos clientes
 
 ------------------------------------------------------------------------------------
 ## [Disney+ EDA - Kaggle](https://www.kaggle.com/code/lucaselpidio/disneyplus-eda)

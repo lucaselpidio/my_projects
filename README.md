@@ -1,5 +1,18 @@
 # Meus Projetos
 
+## [Análise de Dados — E-commerce Olist](https://www.kaggle.com/code/lucaselpidio/analise-olist)
+📌 Visão Geral
+Este projeto tem como objetivo analisar dados do e-commerce brasileiro Olist, buscando compreender padrões de vendas, comportamento de preços, evolução temporal dos pedidos e o impacto da logística na experiência do cliente.
+
+O projeto foi desenvolvido com foco em portfólio profissional, simulando um cenário real de atuação de um Analista de Dados Júnior.
+
+🎯 Objetivos do Projeto
+Avaliar o comportamento dos valores dos pedidos
+Comparar volume de vendas e faturamento por categoria
+Analisar a evolução temporal dos pedidos
+Investigar o impacto do prazo de entrega na avaliação dos clientes
+
+------------------------------------------------------------------------------------
 ## [Disney+ EDA - Kaggle](https://www.kaggle.com/code/lucaselpidio/disneyplus-eda)
 
 Projeto acadêmico com objetivo de aplicar conceitos fundamentais de EDA em um Dataset público contendo os títulos disponíveis na plataforma Disney+, buscando entender a distribuição entre filmes e séries, observar padrões de lançamento ao longo dos anos, gerando visualizações simples e informativas. 
